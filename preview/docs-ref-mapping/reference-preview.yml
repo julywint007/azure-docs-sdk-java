@@ -333,6 +333,11 @@
       href: ~/docs-ref-services/preview/ai-documenttranslator-readme.md
       children:
       - com.azure.ai.documenttranslator
+    - name: Azure AI Inference
+      href: ~/docs-ref-services/preview/ai-inference-readme.md
+      children:
+      - com.azure.ai.inference
+      - com.azure.ai.inference.models
     - name: OpenAI
       href: ~/docs-ref-services/preview/ai-openai-readme.md
       children:
